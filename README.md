@@ -37,5 +37,5 @@ Replace rows and cols with the desired dimensions of the input matrix.
 
 To run the GPU-based convolution, use the following command:
    ```bash
-   ./main <rows> <cols>
+   ./convolution <rows> <cols>
    ```

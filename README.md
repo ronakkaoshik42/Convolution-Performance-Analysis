@@ -31,7 +31,7 @@ To run the CPU-based convolution, use the following command:
    ```bash
    ./main <rows> <cols>
    ```
-Replace <rows> and <cols> with the desired dimensions of the input matrix.
+Replace rows and cols with the desired dimensions of the input matrix.
 
 ### GPU Convolution
 

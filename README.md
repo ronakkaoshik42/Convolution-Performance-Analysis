@@ -23,3 +23,19 @@ Clone the repository & build the project:
    cmake ..
    make
    ```
+## Running the Code
+
+### CPU Convolution
+
+To run the CPU-based convolution, use the following command:
+   ```bash
+   ./main <rows> <cols>
+   ```
+Replace <rows> and <cols> with the desired dimensions of the input matrix.
+
+### GPU Convolution
+
+To run the GPU-based convolution, use the following command:
+   ```bash
+   ./main <rows> <cols>
+   ```
